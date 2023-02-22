@@ -1,7 +1,7 @@
 ### Authors:
 - Afik Danan 	-> afikdanan@gmail.com
 - Topaz Aakal 	-> topazaakal5@gmail.com
-- Marat Zinger 	-> 
+- Marat Zinger 	-> zingermarat@gmail.com
 
 
 ### Python main libraries for this project:
